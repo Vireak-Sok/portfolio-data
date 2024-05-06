@@ -5,6 +5,29 @@
     "headline": "Create digital design solution to emerge your business and boost revenue growth by solving your users' problems",
     "story": "My main focus these days is building accessible user interfaces for our customers at Klaviyo. I most enjoy building software in the sweet spot where design and engineering meet — things that look good but are also built well under the hood. In my free time, I've also released an online video course that covers everything you need to know to build a web app with the Spotify API."
   },
+  "latest_project":[
+    {
+      "img": "/project1.webp",
+      "alt": "alt text to image",
+      "url": "https://medium.com/@vireaksok/ekyc-app-for-customer-onboarding-ux-ui-case-study-cb9aab9c2b9d", 
+      "name": "Uni Search", 
+      "desc": "This is the short description of the project that give some introduction of the project that I completed."
+    },
+    {
+      "img": "/project2.webp",
+      "alt": "alt text to image",
+      "url": "/",
+      "name": "Website Redesign",
+      "desc": "This is the short description of the project that give some introduction of the project that I completed."
+    }, 
+    {
+      "img": "/project3.webp",
+      "alt": "alt text to image",
+      "url": "https://medium.com/@vireaksok/tour-assistant-app-ux-ui-case-study-35f0d8b6be4",
+      "name": "Locol App",
+      "desc": "This is the short description of the project that give some introduction of the project that I completed."
+    }
+  ],
   "projects":[
     {
       "name": "Uni Searcher",
@@ -85,6 +108,9 @@
       "url": "https://portfolio-vireak-sok.vercel.app/work"
     }
   ],
+  "project_types":[
+    "Mobile App", "Real Life", "Concept", "Web App", "Website", "Dashboard", "Imagery", "Illustration", "Flat", "Glassmorphism", "Neumorphism", "3D", "Minimalist", "Modern", "Playfull", "Professional", "Fancy", "Animation Rich", "Typography", "Micro Interaction", "Responsive"
+  ],
   "experiences":[
     {
       "role": "Product Designer",
@@ -122,32 +148,6 @@
       "description": "Collaborated with management team to adjust the embedded messages for audiences and planned, scripted, and edited promotional videos in various topics. Mainly used Illustrator to design promotional posters and Premeire Pro for video editing."
     }
   ],
-  "latest_project":[
-    {
-      "img": "/project1.webp",
-      "alt": "alt text to image",
-      "url": "https://medium.com/@vireaksok/ekyc-app-for-customer-onboarding-ux-ui-case-study-cb9aab9c2b9d", 
-      "name": "Uni Search", 
-      "desc": "This is the short description of the project that give some introduction of the project that I completed.",
-    },
-    {
-      "img": "/project2.webp",
-      "alt": "alt text to image",
-      "url": "/"
-      "name": "Website Redesign",
-      "desc": "This is the short description of the project that give some introduction of the project that I completed."
-    }, 
-    {
-      "img": "/project3.webp",
-      "alt": "alt text to image",
-      "url": "https://medium.com/@vireaksok/tour-assistant-app-ux-ui-case-study-35f0d8b6be4",
-      "name": "Locol App",
-      "desc": "This is the short description of the project that give some introduction of the project that I completed.",
-    }
-  ],
-  "project_types":[
-    "Mobile App", "Real Life", "Concept", "Web App", "Website", "Dashboard", "Imagery", "Illustration", "Flat", "Glassmorphism", "Neumorphism", "3D", "Minimalist", "Modern", "Playfull", "Professional", "Fancy", "Animation Rich", "Typography", "Micro Interaction", "Responsive"
-  ],
   "highlights": [
     {
       "type": "award",
@@ -167,30 +167,6 @@
       "title": "Software Engineering",
       "issuer": "Kirirom Institute of Technology"
     }
-  ],
-  "educations":[
-        {
-            "school_name":"Kirirom Institute of Technology",
-            "degree": "BS: Software Engineering",
-            "duration": "November 2018 - November 2022"
-        },
-        {
-            "school_name":"Coursera",
-            "degree": "Fundamental UX Course",
-            "duration": "August 2021 - September 2021"
-        }
-  ],
-  "awards":[
-      {
-          "event":"Reverse Innovation",
-          "rank": "Third Price Winner",
-          "date": "June 2021"
-      },
-      {
-          "event":"EnergyLab Hackathon",
-          "rank": "Third Price Winner",
-          "date": "September 2019"
-      }
   ],
   "contacts":[
       {
