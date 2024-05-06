@@ -1,0 +1,1 @@
+This repository acts as a database for my portfolio website to store JSON and image files and let the portfolio website fetches to use at anytime without using local file that make the website heavy for deployment and loading
