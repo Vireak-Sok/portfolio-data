@@ -7,21 +7,21 @@
   },
   "latest_project":[
     {
-      "img": "/project1.webp",
+      "img": "https://github.com/Vireak-Sok/portfolio-data/blob/main/project1.webp",
       "alt": "alt text to image",
       "url": "https://medium.com/@vireaksok/ekyc-app-for-customer-onboarding-ux-ui-case-study-cb9aab9c2b9d", 
       "name": "Uni Search", 
       "desc": "This is the short description of the project that give some introduction of the project that I completed."
     },
     {
-      "img": "/project2.webp",
+      "img": "https://github.com/Vireak-Sok/portfolio-data/blob/main/project2.webp",
       "alt": "alt text to image",
       "url": "/",
       "name": "Website Redesign",
       "desc": "This is the short description of the project that give some introduction of the project that I completed."
     }, 
     {
-      "img": "/project3.webp",
+      "img": "https://github.com/Vireak-Sok/portfolio-data/blob/main/project3.webp",
       "alt": "alt text to image",
       "url": "https://medium.com/@vireaksok/tour-assistant-app-ux-ui-case-study-35f0d8b6be4",
       "name": "Locol App",
